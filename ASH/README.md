@@ -21,4 +21,4 @@
 - Разработка структуры реляционной базы данных https://app.quickdatabasediagrams.com/#/d/FEnuhv
 - Создание и размещение реляционной базы данных
 - Автоматизация процесса обновления данных
-- Анализ и визуализация информации из базы данных при помощи BI-инструментов (Tableau and etc.)
+- Анализ и визуализация информации из базы данных при помощи BI-инструментов (Tableau and etc.) https://public.tableau.com/app/profile/denis8354/viz/Dance_hustle/Dashboard
